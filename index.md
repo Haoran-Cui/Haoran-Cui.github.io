@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://Haoran-Cui.guthub.io/haoran.JPG" class="floatpic" width="360" height="480">
+<img src="https://Haoran-Cui.github.io/haoran.JPG" class="floatpic" width="360" height="480">
 
 Here is **Haoran Cui (崔浩然)**.
 
